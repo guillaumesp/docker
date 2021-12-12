@@ -1,0 +1,1 @@
+docker run -d --rm --name php7-3dev-container php7-3dev-container
